@@ -74,7 +74,6 @@ button {
 
 .hero-header {
     text-align: center;
-    font-family: Roboto;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
@@ -109,6 +108,7 @@ button {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .section-portfolio-header {
@@ -120,11 +120,12 @@ button {
     text-transform: capitalize;
 }
 
-.header-virtues, .header-team {
-    font-size: 20px;
+.header-virtues, .header-team, .header-portfolio {
     font-weight: 500;
+    font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .paragraph-virtues, .paragraph-team, .paragraph-portfolio {
