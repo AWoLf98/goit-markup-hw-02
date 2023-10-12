@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+}
+.list {
+    list-style-type: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+.span-logo {
+    color:  #4D5AE5;
+}
+
+.main-logo {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    /* font-style: normal; */
+    font-weight: 700;
+    line-height: 1,167;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
