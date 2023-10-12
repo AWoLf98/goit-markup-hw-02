@@ -23,6 +23,11 @@ button {
     line-height: 1.167;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #2E2F42;
+}
+
+.link-studio:active {
+    text-decoration: underline;
 }
 
 .footer-logo {
